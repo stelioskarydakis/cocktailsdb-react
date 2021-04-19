@@ -1,0 +1,9 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <text style="cursor: move;" stroke="#000" transform="matrix(2.650806665420532,0,0,2.650806665420532,-694.0202276222408,-469.8928062915802) " xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_1" y="296" x="335" opacity="0.9" stroke-width="0" fill="#422C10">karCocktailDB</text>
+  <path d="m323,277c0,-1 -1.21167,-0.71411 -4,-3c-2.18735,-1.79318 -5,-4 -8,-4c-2,0 -3.15225,-0.76538 -5,0c-1.30655,0.5412 -1.61731,1.07611 -2,2c-0.5412,1.30655 -2,1 -2,2c0,1 -0.61731,2.07611 -1,3c-1.0824,2.61313 -2.78986,5.07843 -4,8c-0.85571,2.06586 -1,3 -1,4c0,2 0,3 0,5c0,3 0,5 0,6c0,1 1.02676,1.77023 2,2c2.17624,0.51373 2.82376,1.48627 5,2c1.9465,0.4595 5.06601,-0.87766 7,-2c3.11847,-1.80972 5.186,-2.69254 7,-4c2.29453,-1.65381 5,-4 6,-5l0,-2l-1,-1" id="svg_3" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="none"/>
+  <path id="svg_5" d="m580.12,240.38278l10.66776,-10.66776l11.3322,11.33211l11.3322,-11.33211l10.66786,10.66776l-11.3322,11.3322l11.3322,11.3322l-10.66786,10.66786l-11.3322,-11.3322l-11.3322,11.3322l-10.66776,-10.66786l11.33211,-11.3322l-11.33211,-11.3322z" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#849854"/>
+ </g>
+</svg>
